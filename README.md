@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Exposure-Management-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Exposure-Management-Platform?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Exposure-Management-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Exposure-Management-Platform?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Exposure-Management-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Exposure-Management-Platform?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Exposure-Management-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -64,42 +64,42 @@ This repository tracks top enterprise **SaaS platforms** and **open-source GitHu
 
 Below is a curated list of open-source tools for building exposure management, attack surface discovery, and vulnerability management systems.
 
-*Note: Sorted in descending order by GitHub Star count.*
+*Note: Sorted in descending order by GitHub Stars_Count.*
 
-- **[Trivy](https://github.com/aquasecurity/trivy)** [![GitHub stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white)](https://github.com/aquasecurity/trivy/stargazers) 🌟 `38,090 stars`  
+- **[Trivy](https://github.com/aquasecurity/trivy)** [![GitHub_Stars](https://img.shields.io/github/stars/aquasecurity/trivy?style=social&color=white)](https://github.com/aquasecurity/trivy/stargazers) 🌟 `38,090 stars`  
   Comprehensive and versatile security scanner for container images, file systems, Git repositories, AWS accounts, and Kubernetes clusters.
 
-- **[Nuclei](https://github.com/projectdiscovery/nuclei)** [![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=social&color=white)](https://github.com/projectdiscovery/nuclei/stargazers) 🌟 `31,563 stars`  
+- **[Nuclei](https://github.com/projectdiscovery/nuclei)** [![GitHub_Stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=social&color=white)](https://github.com/projectdiscovery/nuclei/stargazers) 🌟 `31,563 stars`  
   Fast and customizable template-based vulnerability scanner developed by ProjectDiscovery. Powered by a community-driven repository covering CVEs, misconfigurations, and exposed panels.
 
-- **[Masscan](https://github.com/robertdavidgraham/masscan)** [![GitHub stars](https://img.shields.io/github/stars/robertdavidgraham/masscan?style=social&color=white)](https://github.com/robertdavidgraham/masscan/stargazers) 🌟 `26,042 stars`  
+- **[Masscan](https://github.com/robertdavidgraham/masscan)** [![GitHub_Stars](https://img.shields.io/github/stars/robertdavidgraham/masscan?style=social&color=white)](https://github.com/robertdavidgraham/masscan/stargazers) 🌟 `26,042 stars`  
   TCP port scanner that transmits SYN packets asynchronously, capable of scanning the entire Internet in under 6 minutes.
 
-- **[Katana](https://github.com/projectdiscovery/katana)** [![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/katana?style=social&color=white)](https://github.com/projectdiscovery/katana/stargazers) 🌟 `17,581 stars`  
+- **[Katana](https://github.com/projectdiscovery/katana)** [![GitHub_Stars](https://img.shields.io/github/stars/projectdiscovery/katana?style=social&color=white)](https://github.com/projectdiscovery/katana/stargazers) 🌟 `17,581 stars`  
   Next-generation web crawling and spidering framework designed to discover web application endpoints and hidden assets for web attack surface discovery.
 
-- **[OWASP ZAP](https://github.com/zaproxy/zaproxy)** [![GitHub stars](https://img.shields.io/github/stars/zaproxy/zaproxy?style=social&color=white)](https://github.com/zaproxy/zaproxy/stargazers) 🌟 `15,836 stars`  
+- **[OWASP ZAP](https://github.com/zaproxy/zaproxy)** [![GitHub_Stars](https://img.shields.io/github/stars/zaproxy/zaproxy?style=social&color=white)](https://github.com/zaproxy/zaproxy/stargazers) 🌟 `15,836 stars`  
   World's most widely used web application vulnerability scanner for Dynamic Application Security Testing (DAST).
 
-- **[OWASP Amass](https://github.com/owasp-amass/amass)** [![GitHub stars](https://img.shields.io/github/stars/owasp-amass/amass?style=social&color=white)](https://github.com/owasp-amass/amass/stargazers) 🌟 `15,231 stars`  
+- **[OWASP Amass](https://github.com/owasp-amass/amass)** [![GitHub_Stars](https://img.shields.io/github/stars/owasp-amass/amass?style=social&color=white)](https://github.com/owasp-amass/amass/stargazers) 🌟 `15,231 stars`  
   In-depth attack surface mapping and domain discovery tool that performs active and passive reconnaissance on DNS infrastructure and external network assets.
 
-- **[Nmap](https://github.com/nmap/nmap)** [![GitHub stars](https://img.shields.io/github/stars/nmap/nmap?style=social&color=white)](https://github.com/nmap/nmap/stargazers) 🌟 `13,678 stars`  
+- **[Nmap](https://github.com/nmap/nmap)** [![GitHub_Stars](https://img.shields.io/github/stars/nmap/nmap?style=social&color=white)](https://github.com/nmap/nmap/stargazers) 🌟 `13,678 stars`  
   The de facto standard for network discovery and port scanning, supporting host discovery, OS fingerprinting, and service detection.
 
-- **[Grype](https://github.com/anchore/grype)** [![GitHub stars](https://img.shields.io/github/stars/anchore/grype?style=social&color=white)](https://github.com/anchore/grype/stargazers) 🌟 `12,936 stars`  
+- **[Grype](https://github.com/anchore/grype)** [![GitHub_Stars](https://img.shields.io/github/stars/anchore/grype?style=social&color=white)](https://github.com/anchore/grype/stargazers) 🌟 `12,936 stars`  
   Vulnerability scanner for container images and filesystems that pairs with SBOM generation tools to detect exposed dependencies.
 
-- **[Syft](https://github.com/anchore/syft)** [![GitHub stars](https://img.shields.io/github/stars/anchore/syft?style=social&color=white)](https://github.com/anchore/syft/stargazers) 🌟 `9,617 stars`  
+- **[Syft](https://github.com/anchore/syft)** [![GitHub_Stars](https://img.shields.io/github/stars/anchore/syft?style=social&color=white)](https://github.com/anchore/syft/stargazers) 🌟 `9,617 stars`  
   CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems.
 
-- **[OpenVAS Scanner](https://github.com/greenbone/openvas-scanner)** [![GitHub stars](https://img.shields.io/github/stars/greenbone/openvas-scanner?style=social&color=white)](https://github.com/greenbone/openvas-scanner/stargazers) 🌟 `4,837 stars`  
+- **[OpenVAS Scanner](https://github.com/greenbone/openvas-scanner)** [![GitHub_Stars](https://img.shields.io/github/stars/greenbone/openvas-scanner?style=social&color=white)](https://github.com/greenbone/openvas-scanner/stargazers) 🌟 `4,837 stars`  
   Full-featured open-source network vulnerability scanner (Greenbone Community Edition) featuring 50,000+ vulnerability tests.
 
-- **[OWASP Dependency-Track](https://github.com/DependencyTrack/dependency-track)** [![GitHub stars](https://img.shields.io/github/stars/DependencyTrack/dependency-track?style=social&color=white)](https://github.com/DependencyTrack/dependency-track/stargazers) 🌟 `4,239 stars`  
+- **[OWASP Dependency-Track](https://github.com/DependencyTrack/dependency-track)** [![GitHub_Stars](https://img.shields.io/github/stars/DependencyTrack/dependency-track?style=social&color=white)](https://github.com/DependencyTrack/dependency-track/stargazers) 🌟 `4,239 stars`  
   Software Supply Chain Component Analysis platform that monitors Software Bill of Materials (SBOM) for known vulnerabilities.
 
-- **[XORCISM](https://github.com/XORCISM-AI/XORCISM)** [![GitHub stars](https://img.shields.io/github/stars/XORCISM-AI/XORCISM?style=social&color=white)](https://github.com/XORCISM-AI/XORCISM/stargazers) 🌟 `84 stars`  
+- **[XORCISM](https://github.com/XORCISM-AI/XORCISM)** [![GitHub_Stars](https://img.shields.io/github/stars/XORCISM-AI/XORCISM?style=social&color=white)](https://github.com/XORCISM-AI/XORCISM/stargazers) 🌟 `84 stars`  
   Unified Open-Source Exposure Management Platform aligning with NIST CSF 2.0 governance, offering AI-assisted pentesting and fused exposure scores (`/api/v1/exposures`).
 
 ---
@@ -148,7 +148,7 @@ Contributions are welcome! Please follow these steps to add or update projects:
 
 1. Fork the repository.
 2. Edit `README.md` following the existing markdown table or list format.
-3. Provide factual descriptions, official links, and accurate star count / pricing data.
+3. Provide factual descriptions, official links, and accurate Stars_Count / pricing data.
 4. Submit a Pull Request with a clear summary of your updates.
 
 If you find this repository helpful, please consider giving it a ⭐!
